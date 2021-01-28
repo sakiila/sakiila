@@ -4,7 +4,7 @@
 
 Hi, I am Bob Bao, a Java developer :coffee: living in China :panda_face:.
 
-- :triangular_ruler: Skills: Java/Python/SQL/PhotoShop
+- :octocat: Skills: Java/Python/SQL/PhotoShop
 - :mortar_board: Learning: Golang/Mindfulness
 - :wave: Pronouns: sakiila
 - :heart_eyes: Crush: Wuhan hot-dry noodles
