@@ -8,3 +8,5 @@ Hi, I am Bob Bao, a Java developer :coffee: living in China :panda_face:.
 - :mortar_board: Learning: Golang/Mindfulness
 - :wave: Pronouns: sakiila
 - :heart_eyes: Crush: Wuhan hot-dry noodles
+
+Contact me like a friend.
