@@ -5,7 +5,7 @@
 Hola, I am Bob Bao, a developer living in China :panda_face:.
 
 - :octocat: Skills: Java/Python/TypeScript/Photoshop
-- :books: Learning: Go/Mindfulness
-- :heart_eyes: Crush: [Rainbow Six Siege](https://r6.tracker.network/profile/pc/sakiila) 
+- 📚: Learning: Go/Mindfulness
+- 🚀: My Website: [baobo.me](https://baobo.me/) 
 
 Feel free to contact me with any questions.
